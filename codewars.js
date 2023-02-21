@@ -3,3 +3,5 @@ function mystery() {
     var results =  {sanity: 'Hello'};
     return results;
   }
+
+  // doing a codewar morroe
